@@ -1,0 +1,50 @@
+*{
+    box-sizing: border-box;
+}
+
+body {
+    margin-left: 40%;
+    margin-top: 5%;
+}
+
+h2 {
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: 900;
+    padding-bottom: 5%;
+    color: cornflowerblue;
+
+}
+
+.nombreOpciones {
+    color: cornflowerblue;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+    font-weight: 900;
+}
+
+
+.nombreEtiqueta {
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+    font-weight: 900;
+    color: brown;
+}
+
+#inputEdad {
+    margin-left: 3%;
+}
+
+.botonClase {
+    background-color:cornflowerblue;
+    color: white;
+    font-weight: 900;
+    border-color: brown;
+    font-family:'Cambria, Cochin, Georgia, Times, 'Times New Roman', serif';
+    margin-left: 6%;
+    width: 10%;
+    height: 10%;
+}
+
+.botonClase:hover {
+    color:black;
+}
